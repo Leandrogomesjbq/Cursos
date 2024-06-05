@@ -1,9 +1,8 @@
-#CURSO TRILHA 6 - Análise e Visualização de Dados com BI 
+# CURSO TRILHA 6 - Análise e Visualização de Dados com BI 
 
-Level Up SENAC -
-Perfil 8
-1
-Premissas
+Level Up SENAC - Perfil 8 1
+
+## Premissas
 ● Duração: 11 semanas
 ○ estudo autoguiado + projetos práticos + monitoria ao vivo
 ● Carga horária: 40 h / semana de dedicação exclusiva ao programa
